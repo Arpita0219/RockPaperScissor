@@ -9,7 +9,7 @@ body {
   align-items: center;
 }
 .game-box {
-  background: white;
+  background: rgb(255, 235, 235);
   padding: 30px;
   border-radius: 15px;
   box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
